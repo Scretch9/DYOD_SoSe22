@@ -24,6 +24,12 @@ exported_table_statistics.json
 version.hpp
 provider.hpp
 
+cmake-build-debug
+CMakeFiles
+*.cmake
+CMakeCache
+third_party/
+
 # Ignore cmake user files
 *.txt.user
 
